@@ -1,0 +1,4 @@
+data/raw/
+models/*.pkl
+__pycache__/
+.env

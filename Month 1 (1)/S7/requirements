@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+joblib
+
+py -m uvicorn api:app --reload
+
+https://www.google.com/url?sa=E&source=gmail&q=http://127.0.0.1:8000/docs
